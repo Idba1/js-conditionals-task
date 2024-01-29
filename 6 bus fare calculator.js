@@ -25,8 +25,6 @@ else if(isStudent){
     let payableAmmount50 = regularTicket - discountPrice50;
     console.log( payableAmmount50);
 }
-
-
 else{
     console.log(regularTicket);
 }
